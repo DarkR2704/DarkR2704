@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MateusNunes
-- 👀 I’m interested in job oportunities, that makes me growing my skills and up my career and use my english level , I thank you for see my gitHub.
-- 🌱 I’m currently learning web dev, languages as/ Python,Java,HTML5, CSS3.(Front end)
-- 📫 How to reach me * https://www.linkedin.com/in/mateus-dos-santos-nunes-b83914210/ *
+👋 Hi, I’m @MateusNunes
+🌱 I’m currently learning to be a Data Analist: languages as/ PYTHON,HTML5, CSS3,mySQL,EXCEL,Git e Versionamento.
+👀 I’m interested in job oportunities, that makes me growing my skills and up my career and use my english level , I thank you for see my gitHub.
+📫 How to reach me -LINKEDIN * https://www.linkedin.com/in/mateus-dos-santos-nunes-b83914210/ *
 
 <!---
 DarkR2704/DarkR2704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
